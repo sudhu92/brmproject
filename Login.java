@@ -23,6 +23,10 @@ public class Login {
 		Pomlogin.Email.sendKeys("admin@yourstore.com");
 		Pomlogin.Paasword.sendKeys("admin");
 		Pomlogin.login.click();
+		Pomlogin.Email.sendKeys("sudharahan@gmail.com");
+		Pomlogin.Paasword.sendKeys("admin");
+		Pomlogin.login.click();
+		
 		
 		
 	}
