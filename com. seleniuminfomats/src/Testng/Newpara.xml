@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="loginfunc" parallel = "methods" thread-count="2">
+<test name = "erp">
+		 <parameter name="username" value="sylix" ></parameter>
+		 <parameter name="password" value="admin" ></parameter> 
+		<classes>
+			<class name="Testng.paralleltest"></class>
+		</classes>
+	</test>
+</suite>

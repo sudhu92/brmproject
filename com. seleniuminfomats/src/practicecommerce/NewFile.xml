@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name = "login">
+<test name ="values">
+<classes>
+<parameter name = " admin@yourstore.com" value =" admin"></parameter>
+<class name = "practicecommerce.Login">
+</class>
+</classes>
+
+</test>
+</suite>
